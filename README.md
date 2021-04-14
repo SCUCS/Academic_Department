@@ -48,7 +48,7 @@
 |[学术报告：自然语言相关](http://scst.suda.edu.cn/a5/82/c11203a435586/page.htm)|4月11日 14：00~16：00|王佳安，徐小童|学术会议*1|TBD|TBD|TODO|
 |女足观赛|4月13日|无需打卡|学术会议*2|[TBD]|TBD|[TODO]|
 |学术报告：研究生阶段的任务安排、常见问题相关|4月15日 下午1:30|TBD|学术会议*1|TBD|TBD|TODO|
-|学术报告：[边缘智能](http://scst.suda.edu.cn/a7/9f/c11203a436127/page.htm)、[语言的表征与解码](http://scst.suda.edu.cn/a7/9c/c11203a436124/page.htm)、[铭记历史，开创未来](http://scst.suda.edu.cn/a7/9d/c11203a436125/page.htm)|4月16日 下午2:15-5:00|学术会议*3|TBD|TBD|TODO|
+|学术报告：[边缘智能](http://scst.suda.edu.cn/a7/9f/c11203a436127/page.htm)、[语言的表征与解码](http://scst.suda.edu.cn/a7/9c/c11203a436124/page.htm)、[铭记历史，开创未来](http://scst.suda.edu.cn/a7/9d/c11203a436125/page.htm)|4月16日 下午2:15-5:00|TBD|学术会议*3|TBD|TBD|TODO|
 
 
 ## 2.3 现场打卡注意事项
